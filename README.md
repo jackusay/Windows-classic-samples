@@ -1,3 +1,9 @@
+compare 
+https://github.com/ge9/ExecuteCommand-Pipe
+with
+`Windows-classic-samples`
+
+---
 # Windows classic samples
 
 This repo contains samples that demonstrate
